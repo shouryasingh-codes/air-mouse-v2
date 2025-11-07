@@ -9,6 +9,8 @@
 # Note    : Built step by step (Day 1 to Day 6) to practice logic,
 #           structure, and gesture-based control with python.
 # -------------------------------------------------------------
+ 
+# Force update to refresh GitHub sync
 
 import cv2
 import mediapipe as mp
