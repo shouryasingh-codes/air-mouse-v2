@@ -28,8 +28,8 @@ I built this step by step to understand how real-time hand tracking, gesture det
 ## 🚀 How To Run
 1. Install requirements:
    ```bash
-   pip install opencv-python mediapipe pyautogui    
-python main.py
+   pip install opencv-python mediapipe pyautogui
+   python main.py
 
 ## 🧩 How It Works
 MediaPipe tracks your hand landmarks in real-time.  
